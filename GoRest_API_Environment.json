@@ -1,0 +1,20 @@
+{
+  "id": "gorest-env",
+  "name": "GoRest Env",
+  "values": [
+    {
+      "key": "auth_token",
+      "value": "",
+      "enabled": true
+    },
+    {
+      "key": "timestamp",
+      "value": "{{$timestamp}}",
+      "enabled": true
+    }
+  ],
+  "timestamp": 0,
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "",
+  "_postman_exported_using": "Postman/10.0.0"
+}
